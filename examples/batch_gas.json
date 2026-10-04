@@ -1,0 +1,24 @@
+{
+  "batch_id": "GAS-2026-09",
+  "owner": "市燃气公司",
+  "submitted_at": "2026-09-02T08:00:00Z",
+  "records": [
+    {
+      "asset_id": "G-201",
+      "utility_type": "gas",
+      "segment": "ROAD-8:20-80",
+      "burial_depth_m": 1.1,
+      "status": "in_service",
+      "surveyed_at": "2026-08-20T00:00:00Z"
+    },
+    {
+      "asset_id": "W-101",
+      "utility_type": "water",
+      "segment": "ROAD-8:20-80",
+      "burial_depth_m": 2.4,
+      "status": "in_service",
+      "surveyed_at": "2026-09-01T00:00:00Z",
+      "note": "燃气单位开挖代测供水线，与供水原账埋深冲突"
+    }
+  ]
+}

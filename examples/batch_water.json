@@ -1,0 +1,17 @@
+{
+  "batch_id": "WATER-2026-09",
+  "owner": "市供水公司",
+  "submitted_at": "2026-09-01T08:00:00Z",
+  "records": [
+    {
+      "asset_id": "W-101",
+      "utility_type": "water",
+      "segment": "ROAD-8:0-100",
+      "burial_depth_m": 1.5,
+      "status": "in_service",
+      "surveyed_at": "2026-08-15T00:00:00Z",
+      "attributes": {"diameter_mm": "300", "material": "ductile_iron"},
+      "note": "供水单位竣工台账"
+    }
+  ]
+}

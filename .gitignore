@@ -10,3 +10,9 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 运行时数据库
+ledger.db
+ledger.db-*
+*.db-wal
+*.db-shm

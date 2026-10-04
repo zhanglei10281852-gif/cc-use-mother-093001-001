@@ -1,0 +1,24 @@
+{
+  "batch_id": "COMM-2026-09",
+  "owner": "通信运营商",
+  "submitted_at": "2026-09-03T08:00:00Z",
+  "records": [
+    {
+      "asset_id": "C-301",
+      "utility_type": "comm",
+      "segment": "ROAD-8:0-120",
+      "burial_depth_m": 0.8,
+      "status": "in_service",
+      "surveyed_at": "2026-08-25T00:00:00Z"
+    },
+    {
+      "asset_id": "W-101",
+      "utility_type": "water",
+      "segment": "ROAD-8:20-80",
+      "burial_depth_m": 2.35,
+      "status": "in_service",
+      "surveyed_at": "2026-09-02T00:00:00Z",
+      "note": "通信单位复测，接近燃气代测值，与供水原账冲突"
+    }
+  ]
+}
